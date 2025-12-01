@@ -1,0 +1,9 @@
+Backend
+cd w:\Avalpha\Assesment-1-Prasanna-J-\api
+dotnet run --project AvalphaTechnologies.CommissionCalculator.csproj
+
+
+Frontent
+cd w:\Avalpha\Assesment-1-Prasanna-J-\ui
+npm install
+npm start
