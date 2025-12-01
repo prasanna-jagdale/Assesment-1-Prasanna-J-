@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace AvalphaTechnologies.CommissionCalculator.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("CalculateCommission")]
     public class CommisionController : ControllerBase
     {
         [ProducesResponseType(typeof(CommissionCalculationResponse), 200)]
